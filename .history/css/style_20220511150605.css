@@ -4,11 +4,9 @@ header {
   background-color: var(--hero-background);
   height: 100vh;
 }
-
 nav {
   display: flex;
   justify-content: space-between;
-  padding-top: 25px;
 }
 
 .main-nav {
@@ -45,7 +43,6 @@ nav {
 
 .hero {
   display: flex;
-  padding: 60px 0 60px 0;
 }
 
 .hero-left {
@@ -66,41 +63,10 @@ h1 {
 
   font-weight: 700;
   font-size: 48px;
-  line-height: 140%;
+  line-height: 146%;
   color: #000000;
-}
-
-.h1-span {
-  color: #21b573;
-}
-
-.website-desc {
-  font-family: 'Poppins', sans-serif;
-
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 225%;
-  color: #6c6b6b;
-}
-
-.btn-get-started {
-  width: 153px;
-  height: 43px;
-  background: #21b573;
-  padding: 12px 36px;
-  border: 1px solid #000000;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: 33px;
-  color: #ffffff;
 }
 
 .hero-right {
   width: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.hero-right img {
-  width: 80%;
 }

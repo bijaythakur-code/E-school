@@ -8,7 +8,6 @@ header {
 nav {
   display: flex;
   justify-content: space-between;
-  padding-top: 25px;
 }
 
 .main-nav {
@@ -45,7 +44,8 @@ nav {
 
 .hero {
   display: flex;
-  padding: 60px 0 60px 0;
+  justify-content: center;
+  align-items: center;
 }
 
 .hero-left {

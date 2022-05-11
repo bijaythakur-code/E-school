@@ -4,11 +4,9 @@ header {
   background-color: var(--hero-background);
   height: 100vh;
 }
-
 nav {
   display: flex;
   justify-content: space-between;
-  padding-top: 25px;
 }
 
 .main-nav {
@@ -45,7 +43,6 @@ nav {
 
 .hero {
   display: flex;
-  padding: 60px 0 60px 0;
 }
 
 .hero-left {

@@ -1,0 +1,10 @@
+/*=============== HEADER & NAV ===============*/
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* mobile menu */
+
+/*=============== HERO SECTION ===============*/

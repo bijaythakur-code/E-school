@@ -5,10 +5,11 @@ header {
   height: 100vh;
 }
 
+.header-container {
+}
 nav {
   display: flex;
   justify-content: space-between;
-  padding-top: 25px;
 }
 
 .main-nav {
@@ -45,7 +46,6 @@ nav {
 
 .hero {
   display: flex;
-  padding: 60px 0 60px 0;
 }
 
 .hero-left {
