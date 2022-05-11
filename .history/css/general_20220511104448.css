@@ -27,11 +27,11 @@ Large: 1.8
 #000000 -- black
 #21B573 -- primary
 #FFFFFF -- white
-#FD511A -- primary-shade-one
+#FD511A -- shade-one
 #413960 -- secondary
-#585859 -- secondary-tint-one
+#585859
 #282531 -- footer background
-#CDCDCD -- primary-tint-one
+#CDCDCD
 
 #F0FFF0 -- hero background
 
@@ -63,17 +63,7 @@ Medium: 11px
 :root {
   /* COLORS VARIABLES */
   --primary-color: #21b573;
-  --primary-shade-one: #fd511a;
-  --primary-tint-one: #cdcdcd;
-
   --secondary-color: #413960;
-  --secondary-tint-one: #585859;
-
-  --hero-background: #f0fff0;
-  --footer-background: #282531;
-
-  --black-color: #000000;
-  --white-color: #ffffff;
 }
 
 *,
