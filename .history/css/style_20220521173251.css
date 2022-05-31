@@ -10,7 +10,6 @@ header {
   justify-content: space-between;
   align-items: center;
   height: 9.6rem;
-  padding: 0 2rem;
 }
 
 .main-nav-list {
@@ -359,5 +358,3 @@ footer {
   padding-top: 7.6rem;
   padding-bottom: 2.7rem;
 }
-
-/* My takes */

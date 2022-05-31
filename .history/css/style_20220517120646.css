@@ -10,7 +10,6 @@ header {
   justify-content: space-between;
   align-items: center;
   height: 9.6rem;
-  padding: 0 2rem;
 }
 
 .main-nav-list {
@@ -133,10 +132,6 @@ h1 {
   box-shadow: 0rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
   border-radius: 3.3rem;
   color: #ffffff;
-}
-
-.hero-section {
-  background-color: var(--hero-background);
 }
 
 .hero-right {
@@ -359,5 +354,3 @@ footer {
   padding-top: 7.6rem;
   padding-bottom: 2.7rem;
 }
-
-/* My takes */
