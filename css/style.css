@@ -361,3 +361,15 @@ footer {
 }
 
 /* My takes */
+
+.biijay-credit {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  color: #5f6bdb;
+}
+
+.biijay-credit:hover {
+  color: #413960;
+}
